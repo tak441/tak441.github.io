@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://tak441.github.io
+title: tak441
+tagline: A log of everyday life
+description: My awesome new site
+paginate: 5
